@@ -1,1 +1,1 @@
-# my-app
+# my-game
